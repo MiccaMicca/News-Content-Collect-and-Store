@@ -23,7 +23,7 @@ See the install section in the documentation at https://docs.scrapy.org/en/lates
 
 https://pymongo.readthedocs.io/en/stable/ for more details
 
-2. Set up cloud MongoDB service. Here I used MongoDB Atlas
+2. Set up cloud MongoDB service. Here, MongoDB Atlas is used instead of Compose.io because the latter no longer support a free MongoDB.
 
    https://www.mongodb.com/cloud/atlas
 
